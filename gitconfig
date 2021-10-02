@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = joshkennedybjj@gmail.com
+	name = Josh Kennedy
